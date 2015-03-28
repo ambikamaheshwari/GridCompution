@@ -1,0 +1,4 @@
+0 4570 Ali 1 N NA W
+1 6006 nimisha 20 A H L
+2 6007 mihir 3 E L W	
+3 6007 nimisha 20 A H L
